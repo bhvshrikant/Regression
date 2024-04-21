@@ -17,8 +17,8 @@ The case study aims to analyse the predictor variables to draw insights about th
 ### Key Questions
 1. What are the most significant factors affecting the chances of admission?
 2. How are these factors correlated among themselves?
-3. What do I do to get a 95% chance of admission?
-4. Which Regression model worked best?
+3. What do an aspirant do to get a 95% chance of admission?
+4. Ridge(L2) vs Lasso(L1). Which one worked better?
 
 ### Files
 - `Jamboree_Linear_Regression_Shrikant_Bhv.ipynb`: Jupyter Notebook containing the complete analysis.
